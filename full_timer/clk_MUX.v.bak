@@ -1,3 +1,0 @@
-module clk_MUX(clk, btn, clk_out);
-
-endmodule
